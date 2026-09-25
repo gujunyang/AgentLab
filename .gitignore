@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Virtual environment created by uv
+.venv/
+
+# Environment variables
+.env
+
+# macOS
+.DS_Store
